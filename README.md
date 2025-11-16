@@ -13,8 +13,9 @@ Analisis sentimen komentar Reddit terkait konflik Israel-Palestina untuk periode
 - `05_DeepLearning_BiLSTM_BERT_Stacking_FIX.ipynb` - BiLSTM, BERT, dan stacking ensemble (butuh GPU).
 - `CV-RingkasanFold-ClassicalML.ipynb` - rangkum hasil CV ke Excel (`reports_2024_window_full/*.xlsx`).
 - Artefak model:
-  - `artefacts_2024_window_full/sentiment_pipeline_2024win_stack_count.pkl` (pipeline klasik terbaik) + `model_meta.json`.
-  - Deep learning: `artefacts_2024_window_deep/` (BiLSTM/BERT/stacking model & hasil).
+  - (Disimpan di Google Drive karena ukuran besar) folder `artefacts_2024_window_full/` berisi pipeline klasik terbaik `sentiment_pipeline_2024win_stack_count.pkl` + `model_meta.json`.
+  - (Disimpan di Google Drive) folder `artefacts_2024_window_deep/` untuk model BiLSTM/BERT/stacking + hasil.
+  - (Disimpan di Google Drive) folder `reports_2024_window_full/` untuk ringkasan Excel CV.
 
 ## Alur Data
 Semua keluaran ditulis di folder yang sama dengan notebook.
