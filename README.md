@@ -1,4 +1,5 @@
 # Israel-Palestine Sentiment Analysis (Reddit 2024-2025)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19535956.svg)](https://doi.org/10.5281/zenodo.19535956)
 
 **Comprehensive sentiment analysis** of Reddit comments about the Israel-Palestine conflict (2024-2025). This research project implements a complete machine learning pipeline from data filtering, preprocessing, labeling, to training classical ML and deep learning models, with **Explainable AI (XAI)** analysis using SHAP for model interpretability.
 
