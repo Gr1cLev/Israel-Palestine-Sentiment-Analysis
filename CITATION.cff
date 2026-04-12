@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Israel-Palestine Sentiment Analysis (Reddit 2024-2025)"
+abstract: "Reddit sentiment analysis on the Israel–Palestine conflict (2024–2025), covering data windowing, text cleaning, auto-labeling, classical & deep learning models, and 2025 inference/trend summarization."
+authors:
+  - family-names: "Giansanto"
+    given-names: "Richie"
+    orcid: "https://orcid.org/0009-0001-5494-9815"
+repository-code: "https://github.com/Gr1cLev/Israel-Palestine-Sentiment-Analysis"
+license: MIT
+version: "1.0.0"
+date-released: "2026-04-12"
+keywords:
+  - sentiment analysis
+  - Reddit
+  - Israel-Palestine
+  - NLP
+  - BERT
+  - SHAP
