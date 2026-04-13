@@ -1,8 +1,8 @@
-# Israel-Palestine Sentiment Analysis (Reddit 2024–2025)
+# Sentiment Analysis Reddit Comments on Palestine Israel Conflict Using Machine Learning and Deep Learning
 
 ## 1. Title
 
-**Project Name:** Reddit Sentiment Analysis on the Israel–Palestine Conflict (2024–2025)  
+**Project Name:** Sentiment Analysis Reddit Comments on Palestine Israel Conflict Using Machine Learning and Deep Learning  
 **Data Source:** Reddit comments (via Kaggle)  
 **Topic:** Sentiment Analysis, NLP, Deep Learning, Explainable AI
 
